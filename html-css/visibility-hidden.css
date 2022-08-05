@@ -1,0 +1,16 @@
+.green {
+  display: none;
+}
+
+.green {
+  visibility: hidden;
+}
+
+/* 
+
+    what is the difference?
+    
+    display: none;
+    visibility: hidden;
+
+ */
